@@ -28,8 +28,8 @@
 
 #### 👥 **Team Contributions**
 
-* ## **Name01:**
-* ## **Name02:**
-* ## **Name03:**
+* ## **Name01:Ramkumar.S**
+* ## **Name02:Monish.S**
+* ## **Name03:Kathiresan.M**
 * ## **Name04:**
 
