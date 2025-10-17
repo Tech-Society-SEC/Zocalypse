@@ -2,6 +2,9 @@
 ## 📅 **Week [Number] (10-10 & 14-10, [2025])**
 
 ### 🗓 **Day 01**
+<img width="1920" height="1080" alt="bp blueprint" src="https://github.com/user-attachments/assets/98d122f9-5ef1-4b62-905c-52832ba7bef5" />
+<img width="1908" height="1075" alt="movement" src="https://github.com/user-attachments/assets/d4b1c147-cb09-4615-bcde-4ac8565dfd73" />
+<img width="1920" height="975" alt="jump" src="https://github.com/user-attachments/assets/09e487ec-4bde-4486-b896-5c1b36d714ba" />
 
 ## **Key Accomplishments:**
 
@@ -13,13 +16,12 @@
 * ## **Name02:Monish.S**
 * ## **Name03:Kathiresan.M**
 * ## **Name04:**
-
-![WhatsApp Image 2025-10-14 at 18 57 38_0a9819a8](https://github.com/user-attachments/assets/8537e354-d2cc-4a39-974b-e6633296c952)
-![WhatsApp Image 2025-10-14 at 18 57 39_bd856e13](https://github.com/user-attachments/assets/4971012a-13cf-4ca1-a9b5-f15cf039c889)
-![WhatsApp Image 2025-10-14 at 18 57 39_db657cd7](https://github.com/user-attachments/assets/4f4167d6-7ef5-43fe-acc9-93f140e3d23d)
----
+* 
 
 ### 🗓 **Day 02**
+<img width="1918" height="1080" alt="pistol" src="https://github.com/user-attachments/assets/64f1e8a0-03f7-41ec-bf19-86be51f6eeaa" />
+<img width="1912" height="1078" alt="muzzle" src="https://github.com/user-attachments/assets/8f96b790-aa69-40dc-bd16-ffd3722213e2" />
+<img width="1920" height="1003" alt="shooting" src="https://github.com/user-attachments/assets/57d3349c-7827-4203-9e92-9855553cc73a" />
 
 ## **Key Accomplishments:**
 
@@ -32,5 +34,3 @@
 * ## **Name03:Kathiresan.M**
 * ## **Name04:**
 
-![WhatsApp Image 2025-10-14 at 18 57 37_e9dadce7](https://github.com/user-attachments/assets/9f3af830-f07b-4067-9260-364848ea36c6)
-![WhatsApp Image 2025-10-14 at 18 57 38_74d2d70f](https://github.com/user-attachments/assets/e1db44ff-f441-4602-b75f-d19185ce1ea4)
