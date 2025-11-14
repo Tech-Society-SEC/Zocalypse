@@ -1,21 +1,13 @@
 # Zocalypse
-## 📅 **Week [Number] (10-10 & 14-10, [2025])**
+## 📅 **Week - 2 (10-10 & 14-10, [2025])**
 
-### 🗓 **Day 01**
-<img width="1920" height="1080" alt="bp blueprint" src="https://github.com/user-attachments/assets/98d122f9-5ef1-4b62-905c-52832ba7bef5" />
-<img width="1908" height="1075" alt="movement" src="https://github.com/user-attachments/assets/d4b1c147-cb09-4615-bcde-4ac8565dfd73" />
-<img width="1920" height="975" alt="jump" src="https://github.com/user-attachments/assets/09e487ec-4bde-4486-b896-5c1b36d714ba" />
-
-## **Key Accomplishments:**
-
-## **Goals for Next Day:**
 
 #### 👥 **Team Contributions**
 
 * ## **Name01:Ramkumar.S**
 * ## **Name02:Monish.S**
 * ## **Name03:Kathiresan.K**
-* 
+
 
 ### 🗓 **Day 02**
 ![img 2](https://github.com/user-attachments/assets/64144cdb-80d8-4498-ab0c-71bc20f90127)
