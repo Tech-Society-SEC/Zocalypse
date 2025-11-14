@@ -1,5 +1,5 @@
 # Zocalypse
-## 📅 **Week [Number] (10-10 & 14-10, [2025])**
+## 📅 **Week - 1 (10-10 & 14-10, [2025])**
 
 ### 🗓 **Day 01**
 <img width="1920" height="1080" alt="bp blueprint" src="https://github.com/user-attachments/assets/98d122f9-5ef1-4b62-905c-52832ba7bef5" />
@@ -14,9 +14,7 @@
 
 * ## **Name01:Ramkumar.S**
 * ## **Name02:Monish.S**
-* ## **Name03:Kathiresan.M**
-* ## **Name04:**
-* 
+* ## **Name03:Kathiresan.K**
 
 ### 🗓 **Day 02**
 <img width="1918" height="1080" alt="pistol" src="https://github.com/user-attachments/assets/64f1e8a0-03f7-41ec-bf19-86be51f6eeaa" />
@@ -31,6 +29,5 @@
 
 * ## **Name01:Ramkumar.S**
 * ## **Name02:Monish.S**
-* ## **Name03:Kathiresan.M**
-* ## **Name04:**
+* ## **Name03:Kathiresan.K**
 
